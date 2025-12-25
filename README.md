@@ -1,2 +1,2 @@
 # Claims-Audit-Project
-Audit of employee claims, seeking to understand how to audit and detect fraud. 
+The PBIX AND PDF FILE SHOWCASE MY PROJECT. THE OTHER EXCEL FILES ARE THE DATA THAT I HAVE USED TO CREATE MY PROJECT. I RECOMMEND OPENING THE PBIX FILE FOR BETTER VISUALIZATION. 
