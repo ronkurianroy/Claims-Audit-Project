@@ -1,2 +1,2 @@
 # Claims-Audit-Project
-The PBIX AND PDF FILE SHOWCASE MY PROJECT. THE OTHER EXCEL FILES ARE THE DATA THAT I HAVE USED TO CREATE MY PROJECT. I RECOMMEND OPENING THE PBIX FILE FOR BETTER VISUALIZATION. 
+The PBIX and PDF file showcase my project, while the other Excel files contain the data used to create it. For the best experience and interactive visualizations, I recommend opening the PBIX file.
